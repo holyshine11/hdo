@@ -1,0 +1,28 @@
+[
+    {
+        "model": "oil.station",
+        "pk": 1,
+        "fields": {
+            "MOILST": "직영연세셀프",
+            "MOJUSO1": "서울시 서초구 행복로 456",
+            "MAPS_X": 37.654321,
+            "MAPS_Y": 127.654321,
+            "UJONG": "U",
+            "SMART": "False",
+            "PRICE": 1700
+        }
+    },
+    {
+        "model": "oil.station",
+        "pk": 2,
+        "fields": {
+            "MOILST": "직영강남셀프",
+            "MOJUSO1": "서울시 강남구 청명로 123",
+            "MAPS_X": 37.654221,
+            "MAPS_Y": 127.652321,
+            "UJONG": "D",
+            "SMART": "False",
+            "PRICE": 1650
+        }
+    }
+]
